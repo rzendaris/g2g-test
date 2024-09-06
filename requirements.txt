@@ -20,3 +20,4 @@ django-crum==0.7.9
 logzero==1.7.0
 requests
 CurrencyConverter==0.17.30
+python-dateutil
