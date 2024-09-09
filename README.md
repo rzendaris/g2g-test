@@ -9,6 +9,8 @@ Developed using [Django](https://www.djangoproject.com/) and [Django Rest Framew
 ![](staticfiles/image/created-order.png)
 ### - Point Conversion
 ![](staticfiles/image/point-conversion.png)
+### - Point Issued
+![](staticfiles/image/points-granted.png)
 
 ## B. Database Schema Design
 ![](staticfiles/image/drawSQL-image-export-2024-09-06.png)
